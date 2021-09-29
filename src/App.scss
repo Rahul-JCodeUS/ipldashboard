@@ -1,6 +1,16 @@
 .App {
   text-align: center;
+  
+  .match-won{
+    background:#4da475;
 }
+
+.match-lost{
+    background: #aa333d;
+}
+}
+
+
 
 .App-logo {
   height: 40vmin;

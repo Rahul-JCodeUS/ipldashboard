@@ -1,0 +1,14 @@
+.HomaePage{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-self: center;
+    text-align: center;
+    border-style: solid white;
+
+ 
+    
+
+    .team-cards{
+        justify-self: center;
+    }
+}
